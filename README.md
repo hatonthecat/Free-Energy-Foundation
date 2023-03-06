@@ -7,3 +7,6 @@ Free Software today is like a king sized bed. What started on the 386, became a 
 This project rejects the mainline kernel philosophy and seeks to make an RTOS such as Zephyr for userspace applications and not IoT. 
 
 New software license page: https://gist.github.com/hatonthecat/129c4da1f11a3a69ac25072d7e834b48
+
+License changed to Gaia Public License- where all code belongs to the earth. I would call it GPL, but to avoid ambiguity with the other GPL, I call it the EPL. See: 
+https://gist.github.com/hatonthecat/129c4da1f11a3a69ac25072d7e834b48 
