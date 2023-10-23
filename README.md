@@ -13,3 +13,7 @@ License changed to Gaia Public License- where all code belongs to the earth. I w
 See New software license page: https://gist.github.com/hatonthecat/129c4da1f11a3a69ac25072d7e834b48
 
 The only alignment in this philosophy is eco-alignment. Contrast with AI, which constantly needs to re-align with anthropic principles. The priorities of AGI and ASI are never in perfect alignment, and the time it takes to realign temporarily is an inefficiency shouldered by externalities. 
+
+https://249x.substack.com/p/garbatrage-for-sustainable-robotics
+
+https://dl.acm.org/doi/10.1145/3563657.3596128
