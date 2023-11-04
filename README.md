@@ -30,7 +30,10 @@ The ironic thing is that some climate tech is actually heavily R&D, but does inv
 
 ![image](https://github.com/hatonthecat/Free-Energy-Foundation/assets/76194453/bcec76ac-525c-481b-9d3e-7e6ef2a3379d)
 
+From Climate Tribes [article](https://nadia.xyz/climate-tribes#the-climate-tribes-of-today) ^
+
 ![image](https://github.com/hatonthecat/Free-Energy-Foundation/assets/76194453/1a2b0bde-9347-4e0f-98d2-d4bd9ce47673)
+From Climate Tribes [article](https://nadia.xyz/climate-tribes#the-climate-tribes-of-today) ^
 
 "Hard stick in the very center: Not very tasty, but a necessary and oft-unappreciated foundation. This group would work in climate regardless of its trendiness: those with science backgrounds, or in relevant industries like energy or manufacturing. They’re motivated by personal curiosity and desire to solve an (often technical) problem."
 
