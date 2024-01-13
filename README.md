@@ -10,7 +10,9 @@ This project rejects the mainline kernel philosophy and seeks to make an RTOS su
 
 License changed to Gaia Public License- where all code belongs to the earth. I would call it GPL, but to avoid ambiguity with the other GPL, I call it the EPL. 
 
-See New software license page: https://gist.github.com/hatonthecat/129c4da1f11a3a69ac25072d7e834b48
+1/13/2024: Updated Gist:
+---
+Software license page: https://gist.github.com/hatonthecat/129c4da1f11a3a69ac25072d7e834b48
 
 The only alignment in this philosophy is eco-alignment. Contrast with AI, which constantly needs to re-align with anthropic principles. The priorities of AGI and ASI are never in perfect alignment, and the time it takes to realign temporarily is an inefficiency shouldered by externalities. 
 
