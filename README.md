@@ -14,7 +14,20 @@ License changed to Gaia Public License- where all code belongs to the earth. I w
 ---
 Software license page: https://gist.github.com/hatonthecat/129c4da1f11a3a69ac25072d7e834b48
 
-The only alignment in this philosophy is eco-alignment. Contrast with AI, which constantly needs to re-align with anthropic principles. The priorities of AGI and ASI are never in perfect alignment, and the time it takes to realign temporarily is an inefficiency shouldered by externalities. 
+The only alignment in this philosophy is eco-alignment. Contrast with AI, which constantly needs to re-align with anthropic principles. The priorities of AGI and ASI are never in perfect alignment, and the time it takes to realign temporarily is an inefficiency shouldered by externalities.
+
+This open source design may resemble
+
+https://en.wikipedia.org/wiki/Open-source_hardware#Reception_and_impact 
+
+"Further, Vasilis Kostakis et al.[80] have argued that open-source hardware may promote values of equity, diversity and sustainability. Open-source hardware initiative transcend traditional dichotomies of global-local, urban-rural, and developed-developing contexts. They may leverage cultural differences, environmental conditions, and local needs/resources, while embracing hyper-connectivity, to foster sustainability and collaboration rather than conflict.[80] However, open-source hardware does face some challenges and contradictions. It must navigate tensions between inclusiveness, standardization, and functionality.[80] Additionally, while open-source hardware may reduce pressure on natural resources and local populations, it still relies on energy- and material-intensive infrastructures, such as the Internet. Despite these complexities, Kostakis et al. argue, the open-source hardware framework can serve as a catalyst for connecting and unifying diverse local initiatives under radical narratives, thus inspiring genuine change.[80]"
+
+https://www.appropedia.org/Open_Source_Appropriate_Technology
+
+"Criticism
+This type of idea is clearly not mainstream and suffers from the same criticisms as open source software. In addition, it has been claimed that the decline of the appropriate technology movement is said to be part of the 'remasculinization' of US after the Vietnam War through the Reagan regime.[12] According to Pursell, AT failed because of the inability to counter advocates of agribusiness, large private utilities, and multinational construction companies. These groups maintained the elitist, narrow and traditional definition of the word 'technology' to forward their interests, and not those of the developing world.[12]" 
+
+https://www.jstor.org/stable/3106707
 
 https://249x.substack.com/p/garbatrage-for-sustainable-robotics
 
