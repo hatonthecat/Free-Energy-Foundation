@@ -3,7 +3,7 @@ Free Software Philosophy with Energy Design Priorities
 
 Why this?
 
-Free Software today is like a aircraft carrier. What started as a raft on the 386, became a kernel with over 40 million lines of code (as of 6.x). Today you can use Linux on microcontrollers, 64 core processors, but nothing user space with a priority on energy-first design. The purpose of this repository is to explicitly focus on designing a kernel based for a solar powerable mobile device. https://hackaday.io/project/177716-the-libre-autarkic-laptop
+Free Software today is like an aircraft carrier. What started as a raft on the 386, became a kernel with over 40 million lines of code (as of 6.x). Today you can use Linux on microcontrollers, 64 core processors, but nothing user space with a priority on energy-first design. The purpose of this repository is to explicitly focus on designing a kernel based for a solar powerable mobile device. https://hackaday.io/project/177716-the-libre-autarkic-laptop
 This project rejects the mainline kernel philosophy and seeks to make an RTOS such as Zephyr for userspace applications and not IoT. 
 
 <img width="640" height="480" alt="17728049478076500869773489803800" src="https://github.com/user-attachments/assets/45421d01-6de2-4bc8-95eb-ed991eb69030" />
