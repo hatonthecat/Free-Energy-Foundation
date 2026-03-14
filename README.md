@@ -1,7 +1,7 @@
 # Free-Energy-Foundation
 Free Software Philosophy with Energy Design Priorities
 
-https://www.fsf.org/campaigns/priority-projects/ This project is not on the FSF high priority site because software is not the penultimate goal of technology. 
+https://www.fsf.org/campaigns/priority-projects/ This project is not on the FSF high priority site because software is not the penultimate goal of technology. However, this interview provides a good background https://www.youtube.com/watch?v=ucXYWG0vqqk
 
 https://github.com/EI2030/Low-power-E-Paper-OS
 
