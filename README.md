@@ -1,6 +1,10 @@
 # Free-Energy-Foundation
 Free Software Philosophy with Energy Design Priorities
 
+https://www.fsf.org/campaigns/priority-projects/ This project is not on the FSF high priority site because software is not the penultimate goal of technology. 
+
+https://github.com/EI2030/Low-power-E-Paper-OS
+
 Why this?
 
 Free Software today is like an aircraft carrier. What started as a raft on the 386, became a kernel with over 40 million lines of code (as of 6.x). Today you can use Linux on microcontrollers, 64 core processors, but nothing user space with a priority on energy-first design. The purpose of this repository is to explicitly focus on designing a kernel based for a solar powerable mobile device. https://hackaday.io/project/177716-the-libre-autarkic-laptop
