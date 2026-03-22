@@ -17,6 +17,15 @@ This project rejects the mainline kernel philosophy and seeks to make an RTOS su
 
 License changed to Gaia Public License- where all code belongs to the earth. I would call it GPL, but to avoid ambiguity with the other GPL, I call it the EPL. 
 
+Q&A's:
+--
+
+How should I view the FEF?
+
+You should embrace the FEF with the same enthusiasm computer users had when the 80386 became affordable (or any other major milestone, like a TCP/IP card being added to a computer bay.
+
+No additional questions & answers available at this time.
+
 1/13/2024: Updated Gist:
 ---
 Software license page: https://gist.github.com/hatonthecat/129c4da1f11a3a69ac25072d7e834b48
