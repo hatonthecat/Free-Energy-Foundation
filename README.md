@@ -24,6 +24,16 @@ How should I view the FEF?
 
 You should embrace the FEF with the same enthusiasm computer users had when the 80386 became affordable (or any other major milestone, like a TCP/IP card being added to a computer bay.
 
+How to I develop "free energy" systems?
+
+Nothing is free, but access to energy generation such as portable solar panels would allow nearly unlimited recharging of the computer after acquiring one with a system integrated with photovoltatic managers.
+
+Who can develop a modern and efficient solar powered computer? 
+
+Depending on what is considered "efficient," and how much performance you're seeking from a processor. A 1990s Pentium 1 is solar powerable on 32 and 22nm. Intel and Samsung are IDMs that can produce these chips: https://en.wikipedia.org/wiki/Integrated_device_manufacturer
+
+Nvidia, Apple and other top semiconductors (including the companies mentioned above) could also design a Pentium II & 3 at 2 or 3nm, and it would run quite efficiently- less than 10mW. But will they? Very, very unlikely. In fact the Claremont demo by Intel was partly funded by a Department of Energy grant.
+
 No additional questions & answers available at this time.
 
 1/13/2024: Updated Gist:
