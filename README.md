@@ -24,7 +24,7 @@ How should I view the FEF?
 
 You should embrace the FEF with the same enthusiasm computer users had when the 80386 became affordable (or any other major milestone, like a TCP/IP card being added to a computer bay.
 
-How to I develop "free energy" systems?
+How do I develop "free energy" systems?
 
 Nothing is free, but access to energy generation such as portable solar panels would allow nearly unlimited recharging of the computer after acquiring one with a system integrated with photovoltatic managers.
 
