@@ -54,6 +54,7 @@ One also might question if the Quark was discontinued because it was unprofitabl
 
 My criticism towards Intel wouldn't be so harsh if they actually sold a solar powered product today. But because information control and surveillance is in their partners' interest, solar powered chips with off-grid WAN networks (like Freifunk or LoRAWAN) are antithetical to the national security state. When I began this project 6 years ago, I had little idea how difficult it would be to get this idea off the ground. The open source community is very dependent on big foundries second hand technology- one should think like them, and wonder what they could do. That is how I think, because I think they could do better, and so can you. 
 
+I grew up in an era of "Be All You Can Be." The motto of Silicon Valley today is more like "Accept our mid products while we become 100000x richer than our forefathers."
 
 No additional questions & answers available at this time.
 
