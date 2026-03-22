@@ -32,7 +32,9 @@ Who can develop a modern and efficient solar powered computer?
 
 Depending on what is considered "efficient," and how much performance you're seeking from a processor. A 1990s Pentium 1 is solar powerable on 32 and 22nm. Intel and Samsung are IDMs that can produce these chips: https://en.wikipedia.org/wiki/Integrated_device_manufacturer
 
-Nvidia, Apple and other top semiconductors (including the companies mentioned above) could also design a Pentium II & III at 2nm or 3nm, and it would run quite efficiently at a reasonable speed- 300MHz, maybe not 900MHz- at less than 10mW. But will they manufacture it? Very, very, very unlikely. In fact the Claremont demo by Intel was partly funded by a Department of Energy grant.
+Nvidia, Apple and other top semiconductors (including the companies mentioned above) could also design a Pentium II & III at 2nm or 3nm, and it would run quite efficiently at a reasonable speed- 300MHz, maybe not 900MHz- at less than 10mW. https://www.techrxiv.org/users/814616/articles/1270555-a-heuristic-method-for-designing-solar-circuits A Pentium II could even be integrated with 64MB of RAM in 4mm^2 at 2nm or 1.8nm/1.4nm and likely consume less than 10mW, if set to 233MHz or so.
+
+But will they manufacture it? Very, very, very unlikely. In fact the Claremont demo by Intel was partly funded by a Department of Energy grant.
 
 No additional questions & answers available at this time.
 
