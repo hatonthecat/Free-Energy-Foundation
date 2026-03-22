@@ -34,7 +34,7 @@ Depending on what is considered "efficient," and how much performance you're see
 
 Nvidia, Apple and other top semiconductors (including the companies mentioned above) could also design a Pentium II & III at 2nm or 3nm, and it would run quite efficiently at a reasonable speed- 300MHz, maybe not 900MHz- at less than 10mW. https://www.techrxiv.org/users/814616/articles/1270555-a-heuristic-method-for-designing-solar-circuits A Pentium II could even be integrated with 64MB of RAM in 4mm^2 at 2nm or 1.8nm/1.4nm and likely consume less than 10mW, if set to 233MHz or so.
 
-But will they manufacture it? Very, very, very unlikely. In fact the Claremont demo by Intel was partly funded by a Department of Energy grant. The main reason for developing the tech, near-threshold voltage, at the time, was to lower power consumption when developed at scale (HPCS with hundreds of thousands of co-processors running- but also globally- billions of processors manufactured routinely include 3-4 Quark processors.)
+But will they manufacture it? Very, very, very unlikely. In fact the Claremont demo by Intel was partly funded by a Department of Energy grant. The main reason for developing the tech, near-threshold voltage, at the time, was to lower power consumption when developed at scale (HPCs with hundreds of thousands of co-processors running- but also globally- billions of processors manufactured routinely include 3-4 Quark processors. So little power the processor can run when the PC is off and plugged in or connected to battery)
 
 https://inavoyage.blogspot.com/2026/01/the-nm10-chipset-backporting-to-pentium.html 
 
